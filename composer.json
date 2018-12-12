@@ -2,7 +2,7 @@
     "name": "yiska/craft-password-policy",
     "description": "Enforce a password policy on your users.",
     "type": "craft-plugin",
-    "version": "master",
+    "version": "1.0.6",
     "keywords": [
         "craft",
         "cms",
